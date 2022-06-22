@@ -20,7 +20,7 @@ jupyter-core==4.6.1
 lazy-object-proxy==1.4.3
 mccabe==0.6.1
 mxnet==1.6.0b20200120
-numpy==1.18.1
+numpy==1.22.0
 packaging==20.0
 pandas==0.25.3
 parso==0.5.2
